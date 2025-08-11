@@ -1,0 +1,18 @@
+Turn 1884: left turn at (12.91207, 77.644664) 
+Road Name: 17th Cross Road | Highway Type: residential | Lanes: 2 | Max Speed: nan | Oneway: True 
+---------------------------------------------------------
+Turn 1885: right turn at (12.907779, 77.644472) 
+Road Name: nan | Highway Type: residential | Lanes: nan | Max Speed: nan | Oneway: False 
+---------------------------------------------------------
+Turn 1886: left turn at (12.907777, 77.64427) 
+Road Name: nan | Highway Type: residential | Lanes: nan | Max Speed: nan | Oneway: False 
+---------------------------------------------------------
+Turn 1887: right turn at (12.906272, 77.644211) 
+Road Name: None | Highway Type: residential | Lanes: None | Max Speed: None | Oneway: False 
+---------------------------------------------------------
+Turn 1888: left turn at (12.906268, 77.643877) 
+Road Name: None | Highway Type: residential | Lanes: None | Max Speed: None | Oneway: False 
+---------------------------------------------------------
+Turn 1923: left turn at (12.904878, 77.643799) 
+Road Name: None | Highway Type: secondary | Lanes: None | Max Speed: None | Oneway: False 
+---------------------------------------------------------
