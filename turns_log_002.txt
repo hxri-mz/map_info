@@ -1,5 +1,0 @@
-Turn 2: left turn at 0.17 km from last point
-Turn 3: left turn at 0.02 km from last point
-Turn 4: left turn at 0.21 km from last point
-Turn 5: left turn at 0.19 km from last point
-Turn 6: right turn at 0.27 km from last point
